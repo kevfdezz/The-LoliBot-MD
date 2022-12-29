@@ -8,7 +8,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario ⋅.━━━━ ⊰  
 global.owner = [
   ['34603022140', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  global.owner¹ = ['34603022140'],
+  global.owner0 = ['34603022140'],
   global.owner1 = ['34603022140'], //owner
   global.owner2 =  ['34603022140'], //bot 1
   //['593968585383'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
